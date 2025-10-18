@@ -42,7 +42,7 @@ Word clouds were generated for each category to visualize the most prominent ter
 
 | Consumer Loan                                       | Credit Reporting & Repair                               |
 | :--------------------------------------------------: | :----------------------------------------------------------: |
-| ![Word Cloud for Consumer Loan](./screenshots/wordcloud_Consumer_Loan.png) | ![Word Cloud for Credit Reporting](./screenshots/wordcloud_Credit_reporting_credit_repair_services_or_other_personal_consumer_reports.png) |
+| ![Word Cloud for Consumer Loan](./screenshots/wordcloud_Consumer_Loan.png) | ![Word Cloud for Credit Reporting](./screenshots/wordcloud_Credit_reporting,_credit_repair_services,_or_other_personal_consumer_reports.png) |
 | **Debt Collection** | **Mortgage** |
 | ![Word Cloud for Debt Collection](./screenshots/wordcloud_Debt_collection.png) | ![Word Cloud for Mortgage](./screenshots/wordcloud_Mortgage.png)       |
 
